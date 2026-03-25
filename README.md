@@ -1,4 +1,4 @@
-# Password-reset
+# support
 
 For any support or queries regarding score itt please contact: yotti2003@gmail.com
 
